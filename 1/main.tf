@@ -1,7 +1,7 @@
 // Using data sources to access external resource attributes
 
 data "aws_s3_bucket" "existing_bucket" {
-  bucket = "sumeet.life"
+  bucket = "qqmelo"
 }
 
 output "bucket_id" {
